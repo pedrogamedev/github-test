@@ -8,6 +8,7 @@ public class script3 : MonoBehaviour
     void Start()
     {
         var x = 0;
+        var y = 0;
     }
 
     // Update is called once per frame
